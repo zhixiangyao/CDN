@@ -2,10 +2,22 @@
 
 个人 CDN
 
-### ./images/gif 动态图
+## ./images 图片文件
 
-### ./images/icon icon 图标
+- **/gif** 动态图
 
-### ./images/profile 头像
+- **/icon** icon图标
 
-### ./images/screenshot 截图
+- **/profile** 头像图
+
+- **/screenshot** 截图
+
+- **/music** 音乐背景图
+
+- **/leetcode** 力扣算法图
+
+- **/anime** 动漫图
+
+## ./lrc 歌词文件
+
+## ./mp3 音乐文件
